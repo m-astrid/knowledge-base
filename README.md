@@ -37,7 +37,6 @@
       - :page_facing_up: [behavioral](./knowledge_base/architecture_design/gof_patterns/behavioral.md)  
       - :page_facing_up: [structural](./knowledge_base/architecture_design/gof_patterns/structural.md)  
       - :page_facing_up: [creational](./knowledge_base/architecture_design/gof_patterns/creational.md)  
-    - :page_facing_up: [feature_architechture](./knowledge_base/architecture_design/feature_architechture.md)  
 
 <!-- path-pixie contents end -->
 
